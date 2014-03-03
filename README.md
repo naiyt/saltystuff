@@ -1,4 +1,1 @@
-saltystuff
-==========
-
-Some of my Salt States
+Just a few [Salt](https://github.com/saltstack/salt/) states that I've been using to manage some of my config files as well as for syncing my git repositories. More to come as I implement more of my config management w/ Salt.
