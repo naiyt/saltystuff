@@ -4,4 +4,3 @@ base:
         - screen.screen
         - ssh.ssh
         - compilers.gcc
-        - scm.git
